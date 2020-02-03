@@ -10,9 +10,13 @@ Skype: [clyde.piccinino.mt](live:clyde.piccinino.mt)
 ## Aim
 
 Quality Assurance purpose is about providing validation and rigor to applications and its development. 
-The following tasks are about testing a website's header navigation intended for automated regression testing. 
+The following tasks are about testing a website's _header_ navigation, intended for automated regression testing. 
+
+This project is located in [Github](https://github.com/haudcpiccinino/qa_test_exercise) and you can fork this project and commit to it but it is not required.
 
 Please note the last task is optional. You can omit from doing the task if you so wish to.
+
+When submitting the project please provide the required tools to run the project. E.g. language used, libraries used, etc.... 
 
 
 ## Tasks
@@ -27,10 +31,11 @@ Please note the last task is optional. You can omit from doing the task if you s
 
 ### Write Test Specification
 
-Write a test specification to test the Header menu of the website [https://www.haud.com](https://www.haud.com).
+Write a test specification to test the _header_ navigation menu of the website [https://www.haud.com](https://www.haud.com).
 
-Choose the format you are most comfortable with. e.g. Excel, Word, LibreOffice, Markdown etc... 
-And must include steps, values and assertions.
+Choose the format you are most comfortable with. E.g. Excel, Word, LibreOffice, Markdown etc....
+
+Include user actions taken, any values used, and important assertions.
 
 
 ### Automated Selenium Test
