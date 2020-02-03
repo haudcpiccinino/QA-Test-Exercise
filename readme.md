@@ -33,22 +33,14 @@ When submitting the project please provide the required tools to run the project
 
 Write a test specification to test the _header_ navigation menu of the website [https://www.haud.com](https://www.haud.com).
 
-Choose the format you are most comfortable with. E.g. Excel, Word, LibreOffice, Markdown etc....
-
-Include user actions taken, any values used, and important assertions.
+Choose the format you are most comfortable with. E.g. Excel, Word, LibreOffice, Markdown etc.... 
+In the specification include user actions taken, any values used, and important assertions.
 
 
 ### Automated Selenium Test
 
-Use Selenium library to test the Header menu of website [https://www.haud.com](https://www.haud.com).
-Test only the visible links are not broken. i.e.:
-1. link Home redirects to /;
-2. link Products and services redirects to /products-and-services;
-3. link Knowledge Centre to /knowledge-centre
-4. link About Haud to /about-haud
-5. link Careers to /blog/category/careers
-6. link Blog to /blog;
-7. link Contact us to /contact-us
+Use Selenium library to test the _header_ navigation menu of website [https://www.haud.com](https://www.haud.com).
+Test only the navigation links are not broken. i.e.: Home to landing page, HAUD Solutions to Products and Services page, etc....
 
 
 ### Unit Tests (optional)
